@@ -43,7 +43,7 @@ Use the train.py script to train the Vision Transformer model on the prepared da
 Run the training script using:
 
 ```bash
-python train.py
+python root_directory/src/train.py
 ```
 
 **Model Checkpoints:**
@@ -58,7 +58,7 @@ After training, you can evaluate the model's performance on the test dataset usi
 Execute the test script with
 
 ```bash
-python test.py
+python root_directory/src/test.py
 ```
 
 View Results:
